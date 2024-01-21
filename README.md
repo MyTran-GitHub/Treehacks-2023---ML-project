@@ -1,4 +1,4 @@
-# Treehacks-2023---Sustainability-project
+# Treehacks 2023 - ML Sustainability-project
 We leverage the power of **Machine Learning** as precision agriculture in **intercropping farming** to tackle climate change and promote sustainability in vulnerable regions around the world.
 ## Inspiration :book:
 In the book "Biomimicry: Innovation Inspired By Nature," **polyculture** treasures the diversity and collaboration of plants in which they rely on each other instead of pesticides and fertilizers. After conducting much research, we saw crop diversification via intercropping (growing more than one crop on the same land) or crop rotation (growing multiple crops at different times) is one of the solutions to increase the resilience and sustainability of farming. As a result, to help developing agricultural countries like Vietnam overcome the rising climate crisis, we believe that the key is to create biodiverse agriculture that mimics nature well.

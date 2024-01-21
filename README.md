@@ -12,3 +12,5 @@ We use the **dataset "crop_recommendation.tab"** (Singh, Raul, 2023) from Havard
 ## Challenges and what we are proud of :clap:
 We are aware that the decision to introduce new crops or plant them with other crops depends on more variables than only environmental conditions. Farmers need to consider pest and disease resistance, and other **socio-economic variables** such as market demand, and labor requirements of the crops as well. Thus, we accepted the challenge of expanding the original model using a **Genetic algorithm as an unsupervised ML** to develop such a multi-criteria decision analysis. 
 
+# Check out the [website](https://treehacks-2023.webflow.io/) here 
+
